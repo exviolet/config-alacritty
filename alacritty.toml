@@ -27,7 +27,7 @@ opacity = 0.5
 blur = true#ff085e
 
 [font]
-normal = { family = "FiraCodeNerdFont", style = "Regular" }
+normal = { family = "FiraCodeNerdFont", style = "Retina" }
 
 [cursor.style]
 shape = "Beam"
